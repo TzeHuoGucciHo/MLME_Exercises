@@ -18,5 +18,5 @@ def exercise_3(input_string):
     for letter, count in frequency.items():
         print(f"{letter}: {count}")
 
-input = "Hello world, it is dark and scary in here. Help, I'm scared."
+input = "Pneumonoultramicroscopicsilicovolcanoconiosis is the longest word in the world!"
 exercise_3(input)
